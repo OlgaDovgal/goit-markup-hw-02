@@ -99,9 +99,6 @@ body {
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
-  background-color: #ffffff;
-}
 .team-title,
 .portfolio-title {
   font-weight: 700;
@@ -115,6 +112,9 @@ body {
 .team-item-title,
 .team-item-text {
   text-align: center;
+}
+.portfolio-item {
+  background-color: #ffffff;
 }
 /*========/Team style ==========*/
 /*=========Portfolio style =======*/
